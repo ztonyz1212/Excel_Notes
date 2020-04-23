@@ -11,5 +11,11 @@
 
 ## 06-数据透视
 
+## [ipynb](LogisticRegression.ipynb)
+
+
+
+
+
 
 
