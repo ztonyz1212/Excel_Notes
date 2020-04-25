@@ -24,3 +24,25 @@
 
 提取字符出中的数值https://jingyan.baidu.com/article/ca00d56c3e38a2e99eebcfb7.html
 =MIDB(A2,SEARCHB("?",A2),2\*LEN(A2)-LENB(A2))**
+
+
+
+
+
+
+关于身份证号码的这8个技巧，职场的你必须掌握！-Excel函数公式
+https://mp.weixin.qq.com/s?__biz=MzI0MjgyMTEyMQ==&mid=2247490914&idx=1&sn=47730051d33c7e6bb38f4a90f6e5fe7a&chksm=e9772c0cde00a51a4aada6325b1ddb4b145e63bf899365c101aac47f74fadaf075fc512254e2&mpshare=1&srcid=0422tYTjt6GK6l44ebSclu60&sharer_sharetime=1587562829319&sharer_shareid=f44dfb8d1ce5101576067f9cd135d493&from=singlemessage&scene=1&subscene=10000&clicktime=1587779661&enterid=1587779661&ascene=1&devicetype=android-27&version=27000d39&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AVZKAo909r4LgnQsuiKNSPw%3D&pass_ticket=tjBq1Fc%2BRjJplU%2BGswpQovR2Kc9qvdzF3U5%2F0la6T1TPlCV4WnsGrasjeclHP0cf&wx_header=1
+
+学会几个常用函数公式，效率提高4.7%  Excel之家ExcelHome
+https://mp.weixin.qq.com/s?__biz=MjM5NTcxODg0MA==&mid=2689810027&idx=1&sn=aedfa3d85bec125d3a1dc0700cd1574b&chksm=8353adbcb42424aae37fce4aa640ae17cfbdbc086b28a95916624570ea6203a2303666093013&mpshare=1&srcid=&sharer_sharetime=1587642171264&sharer_shareid=f44dfb8d1ce5101576067f9cd135d493&from=singlemessage&scene=1&subscene=10000&clicktime=1587779614&enterid=1587779614&ascene=1&devicetype=android-27&version=27000d39&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=Acoh98LKA87hP9sY%2FPlYu9Y%3D&pass_ticket=tjBq1Fc%2BRjJplU%2BGswpQovR2Kc9qvdzF3U5%2F0la6T1TPlCV4WnsGrasjeclHP0cf&wx_header=1
+
+
+LOOKUP函数怎么用？今天咱们一起学  Excel之家ExcelHome
+https://mp.weixin.qq.com/s?__biz=MjM5NTcxODg0MA==&mid=2689810059&idx=2&sn=53672f9cda7025d9d71d854a50e8c3d8&chksm=8353ad5cb424244a031b46a03ddd3b6378d5a542d3c191af790c4930563b59b36e7d633e045e&mpshare=1&srcid=&sharer_sharetime=1587773569505&sharer_shareid=f44dfb8d1ce5101576067f9cd135d493&from=singlemessage&scene=1&subscene=10000&clicktime=1587779602&enterid=1587779602&ascene=1&devicetype=android-27&version=27000d39&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=Aav0f1wXFg2xU9XyLsbfheI%3D&pass_ticket=tjBq1Fc%2BRjJplU%2BGswpQovR2Kc9qvdzF3U5%2F0la6T1TPlCV4WnsGrasjeclHP0cf&wx_header=1
+
+
+VLOOKUP函数怎么用？今天咱们一起学  Excel之家ExcelHome
+https://mp.weixin.qq.com/s?__biz=MjM5NTcxODg0MA==&mid=2689810059&idx=1&sn=e3c7d13d07a8e8fb7a8989510d95f106&chksm=8353ad5cb424244a3438955591d7b7bbdea4043c3fb8901ee39efe8df72eda8f6d203d53f3f1&mpshare=1&srcid=&sharer_sharetime=1587773578258&sharer_shareid=f44dfb8d1ce5101576067f9cd135d493&from=singlemessage&scene=1&subscene=10000&clicktime=1587779566&enterid=1587779566&ascene=1&devicetype=android-27&version=27000d39&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AZTYkRNP03PCkoUyXCJizQQ%3D&pass_ticket=tjBq1Fc%2BRjJplU%2BGswpQovR2Kc9qvdzF3U5%2F0la6T1TPlCV4WnsGrasjeclHP0cf&wx_header=1
+
+
+
