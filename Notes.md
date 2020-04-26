@@ -18,20 +18,13 @@
 
 按组计算中位数（https://www.extendoffice.com/zh-CN/documents/excel/4815-excel-pivot-table-median.html）=MEDIAN(IF($B$2:$B$31=B2,$C$2:$C$31))
 
-计算单元格内特定符号的数量=LEN(A1)-LEN(SUBSTITUTE(A1,"*",""))
 
-删除单元格内的隐藏双引号和空格=""&(VALUE(CLEAN(A1)))
 
-提取字符出中的数值https://jingyan.baidu.com/article/ca00d56c3e38a2e99eebcfb7.html
-=MIDB(A2,SEARCHB("?",A2),2\*LEN(A2)-LENB(A2))**
+TEXT() 日期处理
 
 
 
 
-
-
-关于身份证号码的这8个技巧，职场的你必须掌握！-Excel函数公式
-https://mp.weixin.qq.com/s?__biz=MzI0MjgyMTEyMQ==&mid=2247490914&idx=1&sn=47730051d33c7e6bb38f4a90f6e5fe7a&chksm=e9772c0cde00a51a4aada6325b1ddb4b145e63bf899365c101aac47f74fadaf075fc512254e2&mpshare=1&srcid=0422tYTjt6GK6l44ebSclu60&sharer_sharetime=1587562829319&sharer_shareid=f44dfb8d1ce5101576067f9cd135d493&from=singlemessage&scene=1&subscene=10000&clicktime=1587779661&enterid=1587779661&ascene=1&devicetype=android-27&version=27000d39&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AVZKAo909r4LgnQsuiKNSPw%3D&pass_ticket=tjBq1Fc%2BRjJplU%2BGswpQovR2Kc9qvdzF3U5%2F0la6T1TPlCV4WnsGrasjeclHP0cf&wx_header=1
 
 学会几个常用函数公式，效率提高4.7%  Excel之家ExcelHome
 https://mp.weixin.qq.com/s?__biz=MjM5NTcxODg0MA==&mid=2689810027&idx=1&sn=aedfa3d85bec125d3a1dc0700cd1574b&chksm=8353adbcb42424aae37fce4aa640ae17cfbdbc086b28a95916624570ea6203a2303666093013&mpshare=1&srcid=&sharer_sharetime=1587642171264&sharer_shareid=f44dfb8d1ce5101576067f9cd135d493&from=singlemessage&scene=1&subscene=10000&clicktime=1587779614&enterid=1587779614&ascene=1&devicetype=android-27&version=27000d39&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=Acoh98LKA87hP9sY%2FPlYu9Y%3D&pass_ticket=tjBq1Fc%2BRjJplU%2BGswpQovR2Kc9qvdzF3U5%2F0la6T1TPlCV4WnsGrasjeclHP0cf&wx_header=1
