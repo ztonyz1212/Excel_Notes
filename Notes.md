@@ -10,13 +10,11 @@
 
 
 
-计算区域内不同单元格个数=SUMPRODUCT(1/COUNTIF(G2:M2,G2:M2))
-
 模糊匹配=VLOOKUP(""&B1&"",A1:A7,1,0)
 
 分段匹配=LOOKUP(A1, {0,50,60,70,80,90}, {"F","E","D","C","B","A"})
 
-按组计算中位数（https://www.extendoffice.com/zh-CN/documents/excel/4815-excel-pivot-table-median.html）=MEDIAN(IF($B$2:$B$31=B2,$C$2:$C$31))
+
 
 
 
