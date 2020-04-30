@@ -59,4 +59,12 @@ https://mp.weixin.qq.com/s?__biz=MjM5NTcxODg0MA==&mid=2689810059&idx=1&sn=e3c7d1
 
 
 
-![pic](images/pic.png)
+## 函数公式小妙招，点滴积累效率高
+
+https://mp.weixin.qq.com/s?__biz=MjM5NTcxODg0MA==&mid=2689810093&idx=1&sn=ad49a6180203c54c98770fb287492c4a&chksm=8353ad7ab424246cd02ddd71b782aa0f1d53f8a308b9090d3efa5299bf3032fb558098b30676&mpshare=1&srcid=&sharer_sharetime=1588170094983&sharer_shareid=f44dfb8d1ce5101576067f9cd135d493&from=singlemessage&scene=1&subscene=10000&clicktime=1588246189&enterid=1588246189&ascene=1&devicetype=android-27&version=27000d63&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AZBhwvtlin3sac5JqWf%2B3Hg%3D&pass_ticket=Ht1yMWTIcTuKLxInE32LzpLhbCPrubq0Qf5Lu1N59j4iEDqEdqJbeqhypMy3wo0i&wx_header=1
+
+
+
+## 函数Frequency，区间频率统计好帮手，数值文本全搞定
+
+https://mp.weixin.qq.com/s?__biz=MzI0MjgyMTEyMQ==&mid=2247490951&idx=1&sn=f851aa31bdcb1e038ad7215f9670a519&chksm=e9772ce9de00a5ffcbbed87781970f8bb86b7adbc70436c4fc956c77d0994d412dd05da91446&mpshare=1&srcid=&sharer_sharetime=1588170288486&sharer_shareid=f44dfb8d1ce5101576067f9cd135d493&from=singlemessage&scene=1&subscene=10000&clicktime=1588246180&enterid=1588246180&ascene=1&devicetype=android-27&version=27000d63&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AY40K4WTWQDLdUtTXwNuCPg%3D&pass_ticket=Ht1yMWTIcTuKLxInE32LzpLhbCPrubq0Qf5Lu1N59j4iEDqEdqJbeqhypMy3wo0i&wx_header=1
