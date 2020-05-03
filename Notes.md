@@ -68,3 +68,9 @@ https://mp.weixin.qq.com/s?__biz=MjM5NTcxODg0MA==&mid=2689810093&idx=1&sn=ad49a6
 ## 函数Frequency，区间频率统计好帮手，数值文本全搞定
 
 https://mp.weixin.qq.com/s?__biz=MzI0MjgyMTEyMQ==&mid=2247490951&idx=1&sn=f851aa31bdcb1e038ad7215f9670a519&chksm=e9772ce9de00a5ffcbbed87781970f8bb86b7adbc70436c4fc956c77d0994d412dd05da91446&mpshare=1&srcid=&sharer_sharetime=1588170288486&sharer_shareid=f44dfb8d1ce5101576067f9cd135d493&from=singlemessage&scene=1&subscene=10000&clicktime=1588246180&enterid=1588246180&ascene=1&devicetype=android-27&version=27000d63&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AY40K4WTWQDLdUtTXwNuCPg%3D&pass_ticket=Ht1yMWTIcTuKLxInE32LzpLhbCPrubq0Qf5Lu1N59j4iEDqEdqJbeqhypMy3wo0i&wx_header=1
+
+
+
+## 11个Excel日期时间函数，易学易用，简单高效
+
+https://mp.weixin.qq.com/s?__biz=MzI0MjgyMTEyMQ==&mid=2247490977&idx=1&sn=a38bbd18ef7d3bd936b70a9528492e60&chksm=e9772ccfde00a5d99033db8afc0c2253ad5b1e13e68d9af5351d076abecce24797252bb7384a&mpshare=1&srcid=&sharer_sharetime=1588421782162&sharer_shareid=f44dfb8d1ce5101576067f9cd135d493&from=singlemessage&scene=1&subscene=10000&clicktime=1588497333&enterid=1588497333&ascene=1&devicetype=android-27&version=27000e37&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&exportkey=AQiBaAiiBgGhb5XjxHc%2FCWw%3D&pass_ticket=m5rLLFZ4r6%2FdKMrmt%2Bmep2lafytbCJOlwd5x5op%2B96QbpGeKmN%2BQLH4NyMXhvwLA&wx_header=1
